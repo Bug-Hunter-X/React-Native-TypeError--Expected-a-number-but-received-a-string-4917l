@@ -1,0 +1,1 @@
+This error occurs when you are using a component that expects a specific type of data, but you are providing it with a different type. For example, if you have a component that expects a number, but you provide it with a string, you will get a type error. This is a common error in React Native, because it is easy to make mistakes when passing data between components.
